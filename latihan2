@@ -1,0 +1,30 @@
+<?php
+    // Looping / pengulangan
+    //Type 1 = FOR 
+    /*for($i=0; $i <=10; $i++){
+        echo $i . "Davita <br>";
+    }*/
+
+    //Type 2 = WHILE
+    /*$i = 1;
+    while($i <=10) {
+        echo $i ." Davita gisha maulfi <br>";
+        $i++;
+    }*/
+
+    //Type 3 = FOREACH
+    //conditional / pengkondisian
+
+    /*$angka = 10;
+    if($angka > 10){
+        echo "lebih besar dari 10";
+    }else if($angka == 10 ){
+        echo"sama dengan 10";
+    }else{
+        echo "kurang dari 10";
+    }*/
+
+    //Tugas : buat sebuah array 1 dimensi dan lebih dari 1 dimensi
+    //tampilkan dalam bentuk pengulangan FOREACH
+
+?>
