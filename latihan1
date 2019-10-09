@@ -1,0 +1,51 @@
+<?php
+   //echo "Hello world !";
+   //echo "<h1>halo dunia !</h1>";
+
+//VARIABEL
+  //diawali dengam tanda sama $nama
+  //nama variabel tidak boleh diawali degan angka
+  //boleh mengandung angka
+  //$nama = "DESVA SABRINA";
+  //$pesan = "HALO, SELAMAT DATANG <strong>$nama</strong>";
+  //echo $pesan;
+
+//operator
+//aritmatika
+//+-*/%
+//$a = 6;
+//$b = 2;
+//echo $a % $b;
+
+
+//Contenation / concat / penggabung
+//.
+//$nama_depan = "Nama";
+//$nama_belakang = "kalian";
+//echo $nama_depan . " " . $nama_belakang;
+
+
+//Assigment / penugasan
+//$x = "nama";
+//$x .= " ";
+//$x .= "kalian";
+//echo $x;
+
+//echo "<br>";
+
+//$angka = 10;
+//$angka += 5;
+//$angka += 3;
+//echo $angka;
+
+
+//perbandingan  / comparation
+// ==, <=, >=, <, >, !;
+
+//IDENTITAS / STRICK COMPARATION
+// ===, !==
+
+//LOGIKA / LOGICAL
+// &&, ||, !
+
+?>
